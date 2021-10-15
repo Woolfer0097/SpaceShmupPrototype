@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ccc4ab2f-3f14-4263-8f90-a4229b3cdcee" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/__Scripts/Main.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/__Scripts/BoundsCheck.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/__Scripts/Main.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1zGjy6qyWfss8TakmOAT3wDo2DR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ccc4ab2f-3f14-4263-8f90-a4229b3cdcee" name="Default Changelist" comment="" />
+      <created>1633781569443</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1633781569443</updated>
+      <workItem from="1633781571111" duration="31000" />
+      <workItem from="1633804570320" duration="133000" />
+      <workItem from="1633804735097" duration="1945000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="839" y="415" key="#Custom_Plugin_Repositories" timestamp="1633804674306">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="839" y="415" key="#Custom_Plugin_Repositories/0.0.1920.1032@0.0.1920.1032" timestamp="1633804674306" />
+    <state x="352" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1633810174114">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="352" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1633810174114" />
+    <state x="461" y="161" key="SettingsEditor" timestamp="1633804694594">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="461" y="161" key="SettingsEditor/0.0.1920.1032@0.0.1920.1032" timestamp="1633804694594" />
+  </component>
+</project>

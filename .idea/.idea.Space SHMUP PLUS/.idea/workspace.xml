@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="351e2791-15a3-442c-96e7-4aca11135f0e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/__Scripts/PowerUp.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/__Scripts/Enemy_3.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/__Scripts/Parallax.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/__Scripts/Utils.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/__Scripts/Enemy_4.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/__Scripts/Weapon.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/__Scripts/Enemy_2.cs" />
+        <option value="$PROJECT_DIR$/Assets/__Scripts/Enemy_3.cs" />
+        <option value="$PROJECT_DIR$/Assets/__Scripts/Projectile.cs" />
+        <option value="$PROJECT_DIR$/Assets/__Scripts/Weapon.cs" />
+        <option value="$PROJECT_DIR$/Assets/__Scripts/Utils.cs" />
+        <option value="$PROJECT_DIR$/Assets/__Scripts/Hero.cs" />
+        <option value="$PROJECT_DIR$/Assets/__Scripts/Main.cs" />
+        <option value="$PROJECT_DIR$/Assets/__Scripts/Enemy.cs" />
+        <option value="$PROJECT_DIR$/Assets/__Scripts/PowerUp.cs" />
+        <option value="$PROJECT_DIR$/Assets/__Scripts/Enemy_4.cs" />
+        <option value="$PROJECT_DIR$/Assets/__Scripts/Parallax.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1zHfxarGOuwjmtSXd4QK1bvuPSq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs.cucumber.cucumber_node_package_dir" value="" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="351e2791-15a3-442c-96e7-4aca11135f0e" name="Default Changelist" comment="" />
+      <created>1633810180775</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1633810180775</updated>
+      <workItem from="1633810186894" duration="645000" />
+      <workItem from="1633853290414" duration="554000" />
+      <workItem from="1633853866344" duration="254000" />
+      <workItem from="1633854144936" duration="125000" />
+      <workItem from="1633854283901" duration="9463000" />
+      <workItem from="1633883472471" duration="3329000" />
+      <workItem from="1633978104849" duration="411000" />
+      <workItem from="1634124767435" duration="10343000" />
+      <workItem from="1634148650264" duration="6118000" />
+      <workItem from="1634155676568" duration="651000" />
+      <workItem from="1634302834822" duration="574000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="711" y="260" key="#Custom_Plugin_Repositories" timestamp="1633854232651">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="711" y="260" key="#Custom_Plugin_Repositories/0.0.1920.1032@0.0.1920.1032" timestamp="1633854232651" />
+    <state x="828" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1633854156607">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="828" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1633854156607" />
+    <state x="333" y="9" key="SettingsEditor" timestamp="1633884987319">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="333" y="9" key="SettingsEditor/0.0.1920.1032@0.0.1920.1032" timestamp="1633884987319" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/__Scripts/Utils.cs</url>
+          <line>8</line>
+          <properties documentPath="C:\Users\Woolf\UnityProjects\Space SHMUP PLUS\Assets\__Scripts\Utils.cs" initialLine="8">
+            <startOffsets>
+              <option value="191" />
+            </startOffsets>
+            <endOffsets>
+              <option value="249" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
